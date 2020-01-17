@@ -1,6 +1,7 @@
 {
   "slicer_test": {
     "Overview": "/",
-    "Core": "/core"
+    "Core": "/core",
+    "tutorial": "/tutorial"
   }
 }
