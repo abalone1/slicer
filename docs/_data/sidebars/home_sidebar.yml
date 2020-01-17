@@ -13,7 +13,7 @@ entries:
       title: Core
       url: /core
     - output: web,pdf
-      title: tutorial
+      title: tutorials
       url: /tutorial
     output: web
     title: slicer_test
