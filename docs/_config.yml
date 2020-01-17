@@ -1,6 +1,6 @@
-repository: abalone1/slicer_test
+repository: abalone1/slicer
 output: web
-topnav_title: slicer_test
+topnav_title: slicer
 site_title: slicer_test
 company_name: David Wohlenberg
 description: A description of your project
