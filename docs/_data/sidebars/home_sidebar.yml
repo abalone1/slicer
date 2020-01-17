@@ -13,9 +13,9 @@ entries:
       title: Core
       url: /core
     - output: web,pdf
-      title: tutorials
+      title: tutorial
       url: /tutorial
     output: web
-    title: slicer_test
+    title: slicer
   output: web
   title: Sidebar

@@ -10,6 +10,6 @@ index = {"Path.ls": "00_core.ipynb",
 
 modules = ["core.py"]
 
-git_url = "https://github.com/abalone1/slicer_test/tree/master/"
+git_url = "https://github.com/abalone1/slicer/tree/master/"
 
 def custom_doc_links(name): return None
