@@ -12,9 +12,6 @@ entries:
     - output: web,pdf
       title: Core
       url: /core
-    - output: web,pdf
-      title: tutorial
-      url: /tutorial
     output: web
     title: slicer_test
   output: web
