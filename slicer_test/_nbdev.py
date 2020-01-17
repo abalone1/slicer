@@ -2,9 +2,13 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"Path.ls": "00_core.ipynb",
+         "PIL.Image.MAX_IMAGE_PIXELS": "00_core.ipynb",
+         "image_extensions": "00_core.ipynb",
+         "ImageSlicer": "00_core.ipynb",
+         "PrintStatusCallback": "00_core.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 git_url = "https://github.com/abalone1/slicer_test/tree/master/"
 

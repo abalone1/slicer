@@ -1,6 +1,7 @@
 {
   "slicer_test": {
     "Overview": "/",
-    "module name here": "/core"
+    "Core": "/core",
+    "tutorial": "/tutorial"
   }
 }
